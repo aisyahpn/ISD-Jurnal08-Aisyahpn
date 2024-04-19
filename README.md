@@ -1,0 +1,9 @@
+JURNAL 08
+
+NAMA: AISYAH PUTRI NURAINI
+
+NIM: 607062300033
+
+KELAS: 47-04
+
+LINK GITHUB: https://github.com/aisyahpn/ISD-Jurnal08-Aisyahpn.git
